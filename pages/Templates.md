@@ -9,6 +9,3 @@
 	  parts::
 	  直译::
 	  tags::
-- query
-	- {{query parts <% current page%>}}
-	  template:: self query
