@@ -1,3 +1,3 @@
-- {{query parts <% current page %>}}
+- {{query tags <% current page %>}}
   query-table:: true
   query-properties:: [:word :parts :直译 :tags]
