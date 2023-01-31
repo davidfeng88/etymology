@@ -1,6 +1,3 @@
-- {{query parts cleos}}
+- {{query tags <% current page %>}}
   query-table:: true
-  query-properties:: [:word :parts :直译 :tags]
-- {{query parts <% current page %>}}
-  query-table:: true
-  query-properties:: [:word :parts :直译 :tags]
+  query-properties:: [:word :直译 :tags]
