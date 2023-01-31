@@ -7,8 +7,7 @@ tags:: [[Peri远近]] [[Cleos 名声、荣耀]]
   notes:: 古希腊几何学家
   直译:: 好名声
   tags:: [[Eu好]] [[Cleos 名声、荣耀]]
--
 - word:: 欧几里得Euclid
   notes:: 古希腊几何学家
-  直译::
-  tags::
+  直译:: 好名声
+  tags:: [[Eu好]] [[Cleos 名声、荣耀]]
