@@ -319,4 +319,5 @@
  :file/name-format :triple-lowbar
  :feature/enable-journals? false
  :default-home {:page "Contents"}
+ :publishing/all-pages-public? true
  }
