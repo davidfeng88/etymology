@@ -1,7 +1,8 @@
-- God/Goddess
+- God
   template:: God
   template-including-parent:: false
-- Word::
-  parts::
-  直译::
-  tags::
+- word
+	- Word::
+	  parts::
+	  直译::
+	  tags::
