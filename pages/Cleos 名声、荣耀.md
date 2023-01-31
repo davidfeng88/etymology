@@ -3,6 +3,6 @@
   query-table:: true
   query-properties:: [:word :parts :直译 :tags]
 - {{query parts cleos}}
-  query-table:: false
+  query-table:: true
   query-properties:: [:word :parts :直译 :tags]
 -
