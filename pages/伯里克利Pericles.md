@@ -1,4 +1,5 @@
 - 远近闻名
-- parts:: [[Peri远近]] [[Cleos 名声、荣耀]]
+- Word:: 伯里克利Pericles
+  parts:: [[Peri远近]] [[Cleos 名声、荣耀]]
   直译:: 远近闻名
-  title::
+  tags:: [[古希腊]]
