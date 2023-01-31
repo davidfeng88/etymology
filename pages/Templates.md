@@ -11,3 +11,4 @@
 	  tags::
 - query
 	- {{query parts <% current page%>}}
+	  template:: self query
