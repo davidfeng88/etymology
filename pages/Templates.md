@@ -3,7 +3,7 @@
   template-including-parent:: false
 	- Greek Name:
 	- Roman Name:
-	- Father:
-	- Mother:
+	- Father::
+	- Mother::
 	- Meaning:
 -
