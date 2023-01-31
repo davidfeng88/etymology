@@ -1,9 +1,8 @@
-Word:: 伯里克利Pericles
-parts:: [[Peri远近]] [[Cleos 名声、荣耀]]
-直译:: 远近闻名
-tags:: [[古希腊]][[人名]][[政治]] [[Peri远近]] [[Cleos 名声、荣耀]]
-
-- Word:: 欧几里得Euclid
-  parts:: [[Eu好]] [[Cleos 名声、荣耀]] 
+- word::
+  notes::
+  直译::
+  tags::
+- word:: 欧几里得Euclid
+  notes:: 古希腊几何学家
   直译:: 好名声
-  tags:: [[古希腊]][[人名]][[几何]] [[Eu好]] [[Cleos 名声、荣耀]]
+  tags:: [[Eu好]] [[Cleos 名声、荣耀]]
