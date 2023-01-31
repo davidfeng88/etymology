@@ -1,2 +1,6 @@
 - God/Goddess
-	- G
+	- Greek Name:
+	- Roman Name:
+	- Father:
+	- Mother:
+	-
