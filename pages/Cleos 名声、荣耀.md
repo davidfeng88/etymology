@@ -1,2 +1,3 @@
 - 常用于人名。
-- {{query parts }}
+- {{query parts <% current page%>}}
+-
