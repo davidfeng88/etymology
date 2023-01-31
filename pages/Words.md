@@ -1,3 +1,4 @@
+- first block placeholder
 word:: 伯里克利Pericles
 notes:: 古希腊政治家 
 直译:: 远近闻名
