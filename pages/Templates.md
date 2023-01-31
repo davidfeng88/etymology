@@ -4,8 +4,8 @@
 	- Father::
 	  Mother::
 	  Group::
-- word
-	- Word::
-	  parts::
+- word template
+	- word::
+	  notes::
 	  直译::
 	  tags::
