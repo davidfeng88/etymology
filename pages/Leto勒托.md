@@ -3,7 +3,7 @@
 - Father:
 - Mother:
 - Meaning:
-- Father::
+- Father:: Coeus科厄斯
   Mother::
 - Greek Name:
 - Roman Name:
