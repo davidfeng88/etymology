@@ -1,1 +1,4 @@
-- {{query parts }}
+- {{query parts cleos}}
+  query-table:: true
+  query-properties:: [:word :parts :直译 :tags]
+-
