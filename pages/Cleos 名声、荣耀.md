@@ -11,10 +11,12 @@ public:: true
            [?p :block/name "cleos 名声、荣耀"]
            [?b :block/refs ?p]]}
   #+END_QUERY
-- #+BEGIN_QUERY
+- query-table:: false
+  #+BEGIN_QUERY
   {:query [:find (pull ?b [*])
            :where
            [?p :block/name ?current-page]
-           [?b :block/refs ?p]]}
+           [?b :block/refs ?p]]
+  :inputs [:current-page]}
   #+END_QUERY
 -
