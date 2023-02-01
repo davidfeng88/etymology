@@ -1,2 +1,2 @@
-- [[卫星Satellite]]
+- [[Satellite卫星]]
 	- 波塞冬的妻妾家属

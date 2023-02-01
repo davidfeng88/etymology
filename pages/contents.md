@@ -12,7 +12,7 @@
 		- [[Cleos名声、荣耀]]
 	- 词汇
 		- 天文
-			- [[卫星Satellite]]
+			- [[Satellite卫星]]
 		- 人名
 			- [[Euclid欧几里得]]
 - TODO 创建类页，加链接

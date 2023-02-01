@@ -1,2 +1,2 @@
-- [[卫星Satellite]]
+- [[Satellite卫星]]
 	- [[Zeus宙斯]]的妻妾女儿

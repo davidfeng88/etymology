@@ -1,4 +1,4 @@
 public:: true
 
-- [[卫星Satellite]]
+- [[Satellite卫星]]
 	- 克诺洛斯手下的提坦族神灵
