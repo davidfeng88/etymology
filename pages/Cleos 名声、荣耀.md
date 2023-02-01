@@ -4,4 +4,4 @@ public:: true
   query-sort-by:: word
   query-table:: true
   query-sort-desc:: false
-  query-properties:: [:word :直译 :tags :page]
+  query-properties:: [:word :直译 :tags :page :block]
