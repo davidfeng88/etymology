@@ -19,3 +19,4 @@ public:: true
            [?b :block/refs ?p]]
   :inputs [:current-page]}
   #+END_QUERY
+- {{q}}
