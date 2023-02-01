@@ -5,4 +5,10 @@ public:: true
   query-table:: true
   query-sort-desc:: false
   query-properties:: [:parts :word :notes :直译 :tags]
-- {{query (tag #eu好)}}
+- #+BEGIN_QUERY
+  {:title [:h2 "Eu"]
+   :query [:find (pull ?b [*])
+           :where
+           [?p :block/name "eu好"]
+           [?b :block/refs ?p]]}
+  #+END_QUERY
