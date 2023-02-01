@@ -1,4 +1,4 @@
 public:: true
 
-- {{query tags <% current page %>}}
-  query-table:: false
+- {{query tags peri}}
+  query-table:: true
