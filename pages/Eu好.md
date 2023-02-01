@@ -1,7 +1,6 @@
 public:: true
 
-- {{query tags <% current page %>}}
+- query-sort-by:: word
   query-table:: true
-  query-properties:: [:parts]
-  query-sort-by:: word
   query-sort-desc:: false
+  query-properties:: [:parts]
