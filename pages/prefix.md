@@ -1,0 +1,2 @@
+- [[Eu好]]
+	- {{query (tags #Eu好 )}}
