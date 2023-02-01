@@ -14,6 +14,7 @@ public:: true
 - #+BEGIN_QUERY
   {:query [:find (pull ?b [*])
            :where
-           [?p :block/name "cleos 名声、荣耀"]
+           [?p :block/name ?current-page]
            [?b :block/refs ?p]]}
   #+END_QUERY
+-
