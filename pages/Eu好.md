@@ -1,6 +1,6 @@
 public:: true
 
-- {{query (page-tag Eu好)}}
+- {{query (page-property parts [])}}
   query-sort-by:: word
   query-table:: true
   query-sort-desc:: false

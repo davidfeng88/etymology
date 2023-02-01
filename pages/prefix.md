@@ -1,2 +1,2 @@
 - [[Eu好]]
-	- {{query (page-tags )}}
+	- {{query (page-property parts #Eu好 )}}
