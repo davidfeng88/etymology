@@ -1,6 +1,6 @@
 public:: true
 
-- {{query (property parts Eu )}}
+- {{query (tag Eu好)}}
   query-sort-by:: word
   query-table:: true
   query-sort-desc:: false
