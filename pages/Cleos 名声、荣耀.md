@@ -11,3 +11,9 @@ public:: true
            [?p :block/name "cleos 名声、荣耀"]
            [?b :block/refs ?p]]}
   #+END_QUERY
+- #+BEGIN_QUERY
+  {:query [:find (pull ?b [*])
+           :where
+           [?p :block/name "cleos 名声、荣耀"]
+           [?b :block/refs ?p]]}
+  #+END_QUERY
