@@ -1,9 +1,8 @@
 - #+BEGIN_QUERY
-  {:title [:h2 "My books"]
+  {:title [:h2 "Eu"]
    :query [:find (pull ?b [*])
-  :where
-  [?b :block/properties ?p]
-  [(get ?p :tags) ?t]
-  [(= "[[eu]]" ?t)]]}
+           :where
+           [?p :block/name "project"]
+           [?b :block/refs ?p]]}
   #+END_QUERY
 -
