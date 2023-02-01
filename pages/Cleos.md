@@ -1,1 +1,1 @@
-- {{query (tags cleos)}}
+- {{query (tags eu)}}
