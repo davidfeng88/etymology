@@ -1,6 +1,6 @@
 public:: true
 
-- {{query (tags #[[Cleos 名声、荣耀]] )}}
+- {{query (property parts  )}}
   query-sort-by:: word
   query-table:: true
   query-sort-desc:: false
