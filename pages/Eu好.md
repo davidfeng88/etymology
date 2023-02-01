@@ -10,6 +10,7 @@ public:: true
            [?b :block/refs ?p]]}
   #+END_QUERY
 - query-table:: true
+  query-properties:: [:word :notes :直译 :tags]
   #+BEGIN_QUERY
   {:query [:find (pull ?b [*])
           :in $ ?current-page
