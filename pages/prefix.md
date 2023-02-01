@@ -1,2 +1,1 @@
 - [[Eu好]]
-	- {{query (page-property parts #Eu好 )}}
