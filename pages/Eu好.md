@@ -17,9 +17,5 @@ public:: true
          [?t :block/name ?tag]
          [?p :block/tags ?t]
          [?p :block/name ?name]]
-   :inputs ["programming"]
-   :view (fn [result]
-         [:div.flex.flex-col
-          (for [page result]
-            [:a {:href (str "#/page/" page)} (clojure.string/capitalize page)])])}
+   :inputs ["eu好"]}
   #+END_QUERY
