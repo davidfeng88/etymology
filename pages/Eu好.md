@@ -2,4 +2,6 @@ public:: true
 
 - {{query tags <% current page %>}}
   query-table:: true
-  query-properties:: [:word :parts :直译 :tags]
+  query-properties:: [:parts]
+  query-sort-by:: word
+  query-sort-desc:: false
