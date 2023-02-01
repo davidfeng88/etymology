@@ -9,3 +9,12 @@ public:: true
            [?p :block/name "eu好"]
            [?b :block/refs ?p]]}
   #+END_QUERY
+- query-table:: true
+  #+BEGIN_QUERY
+  {:query [:find (pull ?b [*])
+          :in $ ?current-page
+           :where
+           [?p :block/name ?current-page]
+           [?b :block/refs ?p]]
+  :inputs [:current-page]}
+  #+END_QUERY
