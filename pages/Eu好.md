@@ -1,6 +1,6 @@
 public:: true
 
-- {{query tags <% current page %>}}
+- {{query (tags #eu)}}
   query-sort-by:: word
   query-table:: true
   query-sort-desc:: false

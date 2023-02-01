@@ -1,6 +1,6 @@
 public:: true
 
-- {{query (tags E)}}
+- {{query (tags #)}}
   query-sort-by:: word
   query-table:: true
   query-sort-desc:: false
