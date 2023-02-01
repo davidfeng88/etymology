@@ -8,6 +8,6 @@ public:: true
   {:title [:h2 "Cleos"]
    :query [:find (pull ?b [*])
            :where
-           [?p :block/name "cleos 名声、荣誉"]
+           [?p :block/name "cleos 名声、荣"]
            [?b :block/refs ?p]]}
   #+END_QUERY
