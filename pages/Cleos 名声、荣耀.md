@@ -1,7 +1,7 @@
 public:: true
 
-- {{query (page-tags <% current page%>)}}
+- {{query (tags <% current page%>)}}
   query-sort-by:: word
-  query-table:: false
+  query-table:: true
   query-sort-desc:: false
-  query-properties:: [:word :直译 :tags]
+  query-properties:: [:word :直译 :tags :page]
