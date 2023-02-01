@@ -14,6 +14,7 @@ public:: true
 - query-table:: false
   #+BEGIN_QUERY
   {:query [:find (pull ?b [*])
+          :in $
            :where
            [?p :block/name ?current-page]
            [?b :block/refs ?p]]
