@@ -19,4 +19,6 @@ public:: true
            [?b :block/refs ?p]]
   :inputs [:current-page]}
   #+END_QUERY
-- {{q}}
+- {{query [[Eu好]]}}
+  query-table:: true
+  query-properties:: [:word :notes :直译 :tags]
