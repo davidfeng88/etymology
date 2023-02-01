@@ -1,6 +1,6 @@
 public:: true
 
-- {{query (page-tags <& >)}}
+- {{query (page-tags <% current page%>)}}
   query-sort-by:: word
   query-table:: false
   query-sort-desc:: false
