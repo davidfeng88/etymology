@@ -1,6 +1,6 @@
 public:: true
 
-- {{query (tags #eu)}}
+- {{query (tags #[[Cleos 名声、荣耀]] )}}
   query-sort-by:: word
   query-table:: true
   query-sort-desc:: false

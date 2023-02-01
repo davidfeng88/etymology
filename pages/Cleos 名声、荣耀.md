@@ -1,6 +1,6 @@
 public:: true
 
-- {{query (tags #)}}
+- {{query (tags #Eu好 )}}
   query-sort-by:: word
   query-table:: true
   query-sort-desc:: false
