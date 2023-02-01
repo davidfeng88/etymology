@@ -1,5 +1,4 @@
-public:: true
-
+-
 - query-sort-by:: word
   query-table:: true
   query-sort-desc:: false
@@ -13,5 +12,4 @@ public:: true
   #+END_QUERY
 - {{query [[Cleos 名声、荣耀]]}}
   query-table:: true
-  query-properties:: [:word :notes :直译 :tags]
--
+  query-properties:: [:word :notes :直译 :tags :block]
