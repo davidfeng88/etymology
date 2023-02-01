@@ -1,5 +1,5 @@
 - god template
-	- template:: God
+	- template:: god
 	  template-including-parent:: false
 	  Father::
 	  Mother::
