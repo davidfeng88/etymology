@@ -1,4 +1,4 @@
-Mother::
+Mother:: [[Metis智慧女神墨提斯]]
 Father:: [[Zeus宙斯]]
 
-- 罗马名：Mnerva
+- 罗马名：Minerva密涅瓦
