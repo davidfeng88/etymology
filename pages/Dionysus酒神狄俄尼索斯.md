@@ -1,3 +1,3 @@
 Father:: [[Zeus宙斯]]
 
-- 罗马名：Bacchus
+- 罗马名：Bacchus巴库斯
