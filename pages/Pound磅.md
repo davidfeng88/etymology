@@ -1,0 +1,2 @@
+- [[日常词汇]]
+- 一磅之重 libra pondo (libra by weight)。古英语中省去libra，称一磅为pund，
