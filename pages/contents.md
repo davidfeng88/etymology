@@ -7,7 +7,8 @@
 		- [众神的样子](https://book.douban.com/subject/34923012/)
 		- [众神的战争](https://book.douban.com/subject/35256004/)
 	- 稻草人语
-		- 众神的星空 星座神话
+		- [众神的星空](https://book.douban.com/subject/25811177/)
+		- [星座神话](https://book.douban.com/subject/26307838/)
 - 本站在建设中，可点击左边“全部页面”随便逛逛，或从下面的示例页面开始
 	- 神祇
 		- [[Oceanus环河之神俄刻阿诺斯]]
