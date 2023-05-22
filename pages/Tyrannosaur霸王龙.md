@@ -1,2 +1,2 @@
 word:: Tyrannosuar霸王龙
-tags
+tags:: [[sauros蜥蜴]]
