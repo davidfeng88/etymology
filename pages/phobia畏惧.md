@@ -1,4 +1,4 @@
 - 抽象名词
 - phobos恐惧
 	- [[Phobos福玻斯]]
-	-
+- {{query [[Cleos名声、荣耀]]}}
