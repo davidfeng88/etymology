@@ -1,4 +1,5 @@
 - 抽象名词
+- 形容词 -
 - phobos恐惧
 	- [[Phobos福玻斯]]
 - {{query [[phobia畏惧]]}}
