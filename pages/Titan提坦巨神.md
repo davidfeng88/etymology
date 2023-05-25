@@ -1,12 +1,12 @@
 - 六男
 	- [[Cronus第二代神王克洛诺斯]]
 	- [[Oceanus环河之神俄刻阿诺斯]]
-	- [[Coeus光明之神科厄斯]]
+	-
 	- [[Crius力量之神克瑞俄斯]]
 - 六女
 	- [[Rhea流逝女神瑞亚]]
 	- [[Mnemosyne记忆女神谟涅摩绪涅]]
-	- [[Phoebe光明女神福柏]]
+	-
 	- [[Tethys海洋女神忒堤斯]]
 - [[Hyperion高空之神许珀里翁]]
 - [[Theia光体女神忒亚]]
@@ -21,3 +21,6 @@
 		- [[Menoetius墨诺提俄斯]]
 		- [[Prometheus普罗米修斯]]
 		- [[Epimetheus厄庇米修斯]]
+- [[Coeus光明之神科厄斯]]
+- [[Phoebe光明女神福柏]]
+	-
