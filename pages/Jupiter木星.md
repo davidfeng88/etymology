@@ -12,3 +12,5 @@
 		- [[Thelxinoe木卫四十二]]
 		- [[Arche木卫四十三]]
 		- [[Callichore木卫四十四]]
+	- 帮助过[[Zeus宙斯]]
+		- [[Helike木卫四十五]]
