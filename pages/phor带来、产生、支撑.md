@@ -7,5 +7,7 @@
 	- refer=>带回来=>参考
 	- differ=>分开带走=>相异
 		- difference差别
+	- prefer=>与生俱来的偏好=>喜好
+	- transfer=>从一处带到另一处=>转移
 	-
 	-
