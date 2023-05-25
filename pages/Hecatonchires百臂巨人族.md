@@ -1,3 +1,3 @@
 - Cottus狂暴者科托斯
 - Briareus强壮者布里阿瑞俄斯
-- Gyes
+- Gyes巨臂者古厄斯
