@@ -1,6 +1,5 @@
 - 希腊语 山 单数ouros，复数ourea
 - 山上居住着[[Nymph宁芙仙子]]
--
 - 神话中出现的山
 	- Olympos奥林波斯山
 	- Ida伊达山
