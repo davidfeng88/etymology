@@ -1,6 +1,2 @@
-Father:: [[Nereus涅柔斯]]
+Father:: [[Nereus海之友善涅柔斯]]
 Mother:: [[Doris多里斯]]
-
-- Greek Name:
-- Roman Name:
-- Meaning:
