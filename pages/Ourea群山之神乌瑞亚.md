@@ -1,2 +1,4 @@
 - 希腊语 山 单数ouros，复数ourea
--
+- 神话中出现的山
+	- Olympos奥林波斯山
+	- Ida伊达山
