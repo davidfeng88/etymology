@@ -4,4 +4,7 @@
 - 中国：启明、长庚
 - 希腊
 	- 早上
-		- eosphoros [[eosphoros带来黎明]]
+		- eosphoros aster [[eosphoros带来黎明]] [[aster星]]
+		- phosphoros aster [[phosphoros带来光明]] [[aster星]]
+	- 傍晚
+		-
