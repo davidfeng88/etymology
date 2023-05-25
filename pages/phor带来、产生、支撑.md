@@ -9,5 +9,4 @@
 		- difference差别
 	- prefer=>与生俱来的偏好=>喜好
 	- transfer=>从一处带到另一处=>转移
-	-
-	-
+	- suffer=>在底下承受=>忍受
