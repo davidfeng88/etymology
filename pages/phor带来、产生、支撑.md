@@ -1,3 +1,9 @@
 - 希腊语：phoreo
 - 拉丁语：fero
-	- infer
+	- infer=>带入其中=>推断
+	- confer=>拿到一起=>对照
+		- conference会议
+	- infer=>带入其中=>推断
+	- infer=>带入其中=>推断
+	- infer=>带入其中=>推断
+	-
