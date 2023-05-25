@@ -1,2 +1,2 @@
 word:: photograph相片
-直译
+tags:: [[phos光]], [[graph描述]]
