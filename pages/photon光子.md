@@ -1,2 +1,2 @@
 word:: photon光子
-tags
+tags:: [[phos光]], [[on粒子]]
