@@ -1,0 +1,3 @@
+- 希腊语：phoreo
+- 拉丁语：fero
+	- infer
