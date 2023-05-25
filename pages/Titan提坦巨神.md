@@ -3,12 +3,14 @@
 	- [[Oceanus环河之神俄刻阿诺斯]]
 	- [[Coeus光明之神科厄斯]]
 	- [[Crius力量之神克瑞俄斯]]
-	- [[Hyperion高空之神许珀里翁]]
+	-
 	- [[Iapetus冲击之神伊阿珀托斯]]
 - 六女
 	- [[Rhea流逝女神瑞亚]]
-	- [[Theia光体女神忒亚]]
+	-
 	- [[Themis秩序女神忒弥斯]]
 	- [[Mnemosyne记忆女神谟涅摩绪涅]]
 	- [[Phoebe光明女神福柏]]
 	- [[Tethys海洋女神忒堤斯]]
+- [[Hyperion高空之神许珀里翁]]
+-
