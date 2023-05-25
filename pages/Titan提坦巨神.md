@@ -19,4 +19,5 @@
 	- 后代
 		- [[Atlas阿特拉斯]]
 		- [[Menoetius墨诺提俄斯]]
-		-
+		- [[Prometheus普罗米修斯]]
+		- [[Epimetheus厄庇米修斯]]
