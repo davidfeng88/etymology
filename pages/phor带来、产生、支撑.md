@@ -3,7 +3,9 @@
 	- infer=>带入其中=>推断
 	- confer=>拿到一起=>对照
 		- conference会议
-	- infer=>带入其中=>推断
-	- infer=>带入其中=>推断
-	- infer=>带入其中=>推断
+	- offer=>带来=>提供
+	- refer=>带回来=>参考
+	- differ=>分开带走=>相异
+		- difference差别
+	-
 	-
