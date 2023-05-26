@@ -7,3 +7,4 @@
 	- 战败的 [[Titan提坦巨神]]
 	- [[Sisyphus西西弗斯]]
 	- [[Tantalus坦塔罗斯]]
+	- [[Ixion伊克西翁]]
