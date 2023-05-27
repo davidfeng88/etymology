@@ -1,1 +1,3 @@
-- thaomai: to see 看
+- thaomai: to see 看 所衍生的抽象名词
+- 同源：theaomai看
+	-
