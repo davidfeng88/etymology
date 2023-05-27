@@ -1,3 +1,5 @@
 - 希腊语
 	- 名词 geron老年
-	-
+- 人类变老类比为作物成熟
+	- grain谷物
+	- pomegranate石榴
