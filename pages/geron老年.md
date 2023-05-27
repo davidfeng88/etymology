@@ -4,4 +4,4 @@
 	- grain谷物
 	- pomegranate石榴：pomme grenate多籽的水果
 	- grenade手榴弹（造型像石榴）
-	- granite花岗岩（多籽的）
+	- granite花岗岩（多籽的石头）
