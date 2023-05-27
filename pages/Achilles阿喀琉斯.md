@@ -1,2 +1,4 @@
 father:: [[Peleus珀琉斯]]
-mother
+mother:: [[Thetis忒提斯]]
+
+-
