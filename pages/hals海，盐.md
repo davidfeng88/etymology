@@ -1,1 +1,3 @@
-- 工资salary
+- 拉丁语salarium
+	- 古罗马士兵工资有时候用盐来支付
+	- 工资salary
