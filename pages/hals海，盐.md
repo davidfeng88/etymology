@@ -1,3 +1,5 @@
 - 拉丁语salarium
 	- 古罗马士兵工资有时候用盐来支付
 	- 工资salary
+- 岛：insula在海中
+- 半岛：penisula几乎
