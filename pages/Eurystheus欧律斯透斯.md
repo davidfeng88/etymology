@@ -1,1 +1,1 @@
-- [[Eury广大]], [[sthenos力量]]
+- [[Eurys宽广的]], [[sthenos力量]]
