@@ -1,2 +1,4 @@
 - [[化学]]
-- 因为单质不受酸侵蚀，与tan
+- 因为单质不受酸侵蚀，与 [[Tantalus坦塔罗斯]]想喝水喝不到类似
+- "This metal I call *tantalum* ... partly in allusion to its incapacity, when immersed in acid, to absorb any and be saturated."
+- 后来发现两种类似的元素，被命名为
