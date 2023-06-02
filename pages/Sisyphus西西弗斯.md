@@ -1,11 +1,13 @@
 - 父亲：Aeolus埃俄罗斯
+- 哥哥：Salmoneus萨尔摩纽斯
 - [[圣斗士星矢]]
 	- 上代射手座黄金圣斗士：Sisyphus
 	- 射手座圣斗士：Aeolus
 		- 弟弟：狮子座圣斗士：Aeolia
 - 希腊第一大盗Autolycus奥托吕科斯偷了Sisyphus的牛，前者否认。Sisyphus说牛蹄下刻了自己的名字。
 - Autolycus奥托吕科斯女儿Anticlea安提克勒亚与Laertes拉厄耳忒斯订婚，Sisyphus扮作新郎晚上潜入闺房，后生下了 [[Odysseus奥德修斯]]
-- 建立了柯林斯城
+- 建立了柯林斯城，成为柯林斯国王
+-
 -
 - 欺骗死神
 - 无止境地推动巨石
