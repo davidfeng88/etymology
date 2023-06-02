@@ -7,6 +7,7 @@
 - 希腊第一大盗Autolycus奥托吕科斯偷了Sisyphus的牛，前者否认。Sisyphus说牛蹄下刻了自己的名字。
 - Autolycus奥托吕科斯女儿Anticlea安提克勒亚与Laertes拉厄耳忒斯订婚，Sisyphus扮作新郎晚上潜入闺房，后生下了 [[Odysseus奥德修斯]]
 - 建立了柯林斯城，成为柯林斯国王
+- 但常密谋杀死异邦商人，萨尔摩纽斯多次教导他，引起西西弗斯怨恨。
 -
 -
 - 欺骗死神
