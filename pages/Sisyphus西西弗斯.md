@@ -3,6 +3,6 @@
 	- 上代射手座黄金圣斗士：Sisyphus
 	- 射手座圣斗士：Aeolus
 		- 弟弟：狮子座圣斗士：Aeolia
--
+- 希腊第一大盗Autolycus奥托吕科斯偷了Sisyphus的牛，前者否认。Sisyphus说
 - 欺骗死神
 - 无止境地推动巨石
