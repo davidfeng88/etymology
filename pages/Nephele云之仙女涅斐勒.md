@@ -1,2 +1,2 @@
 - 与 [[Ixion伊克西翁]]结合后生下了[[Centaur半人马怪物肯陶洛斯]]
-- 后来嫁给了Athamas
+- 后来嫁给了Athamas国王阿塔玛斯，生下儿子Phrixus佛里克索斯
