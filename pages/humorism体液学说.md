@@ -1,0 +1,6 @@
+- 希波克拉底提出
+- 四种重要的体液humor
+	- 血液sanguis
+	- 黏液phlegma
+	- 黄胆汁chole
+	- 黑胆汁melanchole
