@@ -7,3 +7,7 @@ mother:: [[Nyx黑夜女神尼克斯]]
 	- 希腊语hypnos
 	- 拉丁语somnus
 		- 失眠insmonia
+- 下属Oneiroi梦呓神族
+	- Morpheus睡梦之神
+	- Phobetor噩梦之神
+	-
