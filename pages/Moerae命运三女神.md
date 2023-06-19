@@ -1,5 +1,6 @@
 mother:: [[Nyx黑夜女神尼克斯]]
 
+- 希腊语
 - Clotho克罗托
 	- 纺织生命之线
 - Lachesis拉刻西斯
