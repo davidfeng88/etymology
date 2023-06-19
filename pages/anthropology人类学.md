@@ -1,1 +1,1 @@
-- [[antropy人类]]
+- [[anthropy人类]]

@@ -1,2 +1,2 @@
 word:: philanthropy博爱
-tags:: [[philia喜爱]][[antropy人类]]
+tags:: [[philia喜爱]][[anthropy人类]]
