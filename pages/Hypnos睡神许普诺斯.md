@@ -9,7 +9,9 @@ mother:: [[Nyx黑夜女神尼克斯]]
 		- 失眠insmonia
 - 下属Oneiroi梦呓神族
 	- Morpheus睡梦之神
-		-
+		- [[mophe形态、影像]]
+		- 黑客帝国墨菲斯，尼布甲尼撒船船长
+			- 尼布甲尼撒是圣经中巴比伦的国王
 	- Phobetor噩梦之神
 	- Phantasos幻象之神
 	- 他们居住在大洋尽头，两座门
