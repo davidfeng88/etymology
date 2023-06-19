@@ -1,3 +1,5 @@
 - [[化学]]
 - 甲基methyl - 甲酸提取自酒（希腊语methu）
-- 乙基ethyl - yi[[]]
+- 乙基ethyl - 乙醚ether [[aether苍天]]
+- 丁基butyl - 丁酸最初由奶油butter中提取
+- 乙酰基acetyl
