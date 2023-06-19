@@ -4,4 +4,4 @@
 - autonomy自治
 - ergonomics人体工学
 - taxonomy分类法
-- Deuteronomy
+- Deuteronomy申命记（第二律法，重申律法）
