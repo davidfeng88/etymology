@@ -10,6 +10,7 @@ mother:: [[Nyx黑夜女神尼克斯]]
 - 下属Oneiroi梦呓神族
 	- Morpheus睡梦之神
 		- [[morphe形态、影像]]
+		- morphine吗啡
 		- 黑客帝国墨菲斯，尼布甲尼撒船船长
 			- 尼布甲尼撒是圣经中巴比伦的国王
 	- Phobetor噩梦之神
