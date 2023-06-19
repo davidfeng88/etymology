@@ -9,8 +9,10 @@ mother:: [[Nyx黑夜女神尼克斯]]
 		- 失眠insmonia
 - 下属Oneiroi梦呓神族
 	- Morpheus睡梦之神
+		-
 	- Phobetor噩梦之神
 	- Phantasos幻象之神
 	- 他们居住在大洋尽头，两座门
-		- 牛角门——提供真实
-		- 象牙门——
+		- 牛角门——真实
+		- 象牙门——不真实
+			- 象牙寓意虚幻脱离实际的事物——ivory tower
