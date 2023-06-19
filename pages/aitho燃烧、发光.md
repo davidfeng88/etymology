@@ -1,2 +1,2 @@
 - 埃塞俄比亚Ethoipia
-- Aithiopia希腊语：灼焦
+- Aithiopia希腊语：灼焦脸人之地
