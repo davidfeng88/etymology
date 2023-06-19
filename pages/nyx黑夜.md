@@ -1,3 +1,4 @@
 - 拉丁语：nox夜晚
+- 英语：night
 - nocturne夜曲
 - [[equinox春分秋分]]
