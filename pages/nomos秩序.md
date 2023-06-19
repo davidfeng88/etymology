@@ -1,6 +1,7 @@
 - economy经济
 - antinomy矛盾
-- heteronomy
+- heteronomy他律
 - autonomy自治
-- ergonomics
--
+- ergonomics人体工学
+- taxonomy分类法
+- Deuteronomy
