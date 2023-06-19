@@ -1,2 +1,2 @@
 word:: Philiadelphia费城
-tags
+tags:: [[philia喜爱]][[adelphos兄弟]]
