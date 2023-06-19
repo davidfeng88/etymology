@@ -11,4 +11,5 @@ mother:: [[Nyx黑夜女神尼克斯]]
 	- 丈量生命之线
 - Atropos阿特洛波斯
 	- 剪断生命之线
-	- 意为不转了。a否定前缀。tropos: turn.
+	- 意为不转了。a否定前缀。[[tropos：turn]]
+	-
