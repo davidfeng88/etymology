@@ -1,0 +1,4 @@
+- economy经济
+- antinomy矛盾
+- heteronomy他律
+-
