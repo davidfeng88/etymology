@@ -5,5 +5,6 @@
 - Leonardo Da Vinci 达芬奇
 	- [[人名/专有]] 来自Vinci的莱昂纳多
 - Napoleon 拿破仑
-	- [[人名/专有]] 来自那不勒斯的Leon
--
+	- [[人名/专有]] 来自那不勒斯(Naples)的Leon
+- Leo Tolstoy 列夫托尔斯泰
+	- [[人名/专有]]
