@@ -8,3 +8,5 @@
 	- [[人名/专有]] 来自那不勒斯(Naples)的Leon
 - Leo Tolstoy 列夫托尔斯泰
 	- [[人名/专有]]
+- Sierra Leone塞拉利昂（狮子山）[[Sierra山]]
+	- [[地名]]
