@@ -1,0 +1,4 @@
+- 英语Lion
+- 希腊语Leon
+- 拉丁语Leo
+- Leonardo
