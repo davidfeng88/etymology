@@ -2,6 +2,8 @@
 - 希腊语Leon
 - 拉丁语Leo
 - Leonardo像狮子一样
-- Leonardo Da Vinci
+- Leonardo Da Vinci 达芬奇
 	- [[人名/专有]] 来自Vinci的莱昂纳多
-- Napo
+- Napoleon 拿破仑
+	- [[人名/专有]] 来自那不勒斯的Leon
+-
