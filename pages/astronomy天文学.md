@@ -1,1 +1,1 @@
-- [[astro星星]] [[nomos秩序]]
+- [[aster星]][[nomos秩序]]
