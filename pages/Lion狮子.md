@@ -1,4 +1,7 @@
 - 英语Lion
 - 希腊语Leon
 - 拉丁语Leo
-- Leonardo
+- Leonardo像狮子一样
+- Leonardo Da Vinci
+	- [[人名/专有]] 来自Vinci的莱昂纳多
+- Napo
