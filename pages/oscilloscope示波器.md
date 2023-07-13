@@ -1,2 +1,2 @@
 - [[oscillate振动]]
-- [[scope]]
+- [[scope观察器具]]
