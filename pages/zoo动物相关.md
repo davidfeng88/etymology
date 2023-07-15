@@ -1,1 +1,3 @@
-- zoon动物
+- zoology动物学
+- zoological garden动物园，常简称为zoo
+-
