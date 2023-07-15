@@ -2,4 +2,5 @@
 - zoological garden动物园，常简称为zoo
 - epizootic动物流行病（在动物中间）
 - epidemic人类流行病
+	- [[demos人类]]
 - [[Zodiac黄道十二星宫]]
