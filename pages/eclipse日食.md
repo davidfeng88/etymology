@@ -3,6 +3,8 @@
 - ellipsis
 	- 省略号
 	- 椭圆（不足）
-		-
+		- 因为
 	-
 -
+	- ![Conic_Sections.svg.png](../assets/Conic_Sections.svg_1690419761429_0.png)
+	-
