@@ -3,8 +3,9 @@
 - ellipsis
 	- 省略号
 	- 椭圆（不足）
-		- 因为
+		- 因为截取圆锥的平面与底面夹角小于圆锥底角
+	-
+- ![Conic_Sections.svg.png](../assets/Conic_Sections.svg_1690419761429_0.png)
+	-
 	-
 -
-	- ![Conic_Sections.svg.png](../assets/Conic_Sections.svg_1690419761429_0.png)
-	-
