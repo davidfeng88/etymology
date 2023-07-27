@@ -8,5 +8,10 @@
 	- parabola
 		- 抛物线
 		- 截取圆锥的平面与底面夹角等于圆锥底角
-		- 另义：寓言，并置，平行parrallel
+		- 另义：寓言
+			- 并置，平行parallel
+	- hyperbola
+		- 双曲线
+		- 截取圆锥的平面与底面夹角大于圆锥底角
+		- 另义：夸张
 - ![Conic_Sections.svg.png](../assets/Conic_Sections.svg_1690419761429_0.png)
