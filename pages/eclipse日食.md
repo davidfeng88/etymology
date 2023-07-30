@@ -13,5 +13,5 @@
 	- hyperbola
 		- 双曲线
 		- 截取圆锥的平面与底面夹角大于圆锥底角
-		- 另义：夸张
+		- hyperbole 夸张 exaggeration
 - ![Conic_Sections.svg.png](../assets/Conic_Sections.svg_1690419761429_0.png)
