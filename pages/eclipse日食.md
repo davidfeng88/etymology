@@ -8,7 +8,7 @@
 	- parabola
 		- 抛物线
 		- 截取圆锥的平面与底面夹角等于圆锥底角
-		- 另义：寓言
+		- parable 寓言
 			- 并置，平行parallel
 	- hyperbola
 		- 双曲线
