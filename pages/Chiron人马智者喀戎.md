@@ -1,5 +1,5 @@
 father:: [[Cronus第二代神王克洛诺斯]]
-mother:: sea Nymph Philyra
+mother:: sea [[Nymph宁芙仙子]] Philyra
 
 - 徒弟
 	- [[Jason伊阿宋]]

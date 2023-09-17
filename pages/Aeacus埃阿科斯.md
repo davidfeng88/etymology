@@ -1,2 +1,2 @@
 father:: [[Zeus宙斯]]
-mother
+mother:: [[Nymph宁芙仙子]] [[Aegina埃癸娜]]
