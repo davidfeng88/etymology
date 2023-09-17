@@ -10,7 +10,8 @@ Father:: [[Cronus第二代神王克洛诺斯]]
 	- [[Aethra雅典王后埃特拉]]
 		- 生 [[Theseus忒修斯]]
 	- [[Tyro堤罗]]
-		-
+		- 生 [[Pelias珀利阿斯]] 涅琉斯
+	-
 		-
 	-
 	-
