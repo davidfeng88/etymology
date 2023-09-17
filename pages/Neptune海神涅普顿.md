@@ -15,6 +15,3 @@ Father:: [[Cronus第二代神王克洛诺斯]]
 		- 生[[polyphemus独眼巨人波吕斐摩斯]]
 	- [[Amphitrite海后安菲特里忒]]
 		- 生 [[Triton鱼尾海神特里同]]
-		-
-	-
-	-
