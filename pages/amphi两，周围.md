@@ -6,4 +6,4 @@
 	- 周围的
 - ambiguous 模棱两可的
 	- 两边走的
-- amphibian
+- amphibian 两栖动物
