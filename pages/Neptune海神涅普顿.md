@@ -9,5 +9,8 @@ Father:: [[Cronus第二代神王克洛诺斯]]
 		- 生 [[Perseus飞马珀耳修斯]] [[Chrysaor金剑巨人克律萨俄耳]]
 	- [[Aethra雅典王后埃特拉]]
 		- 生 [[Theseus忒修斯]]
+	- [[Tyro堤罗]]
+		-
+		-
 	-
 	-
