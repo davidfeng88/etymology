@@ -1,1 +1,3 @@
--
+- ambition 抱负
+	- 四处走动
+- ambassador
