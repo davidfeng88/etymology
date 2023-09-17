@@ -11,7 +11,8 @@ Father:: [[Cronus第二代神王克洛诺斯]]
 		- 生 [[Theseus忒修斯]]
 	- [[Tyro堤罗]]
 		- 生 [[Pelias珀利阿斯]] 涅琉斯
-	-
+	- Thoosa仙女托奥萨
+		- 生[[polyphemus独眼巨人波吕斐摩斯]]
 		-
 	-
 	-
