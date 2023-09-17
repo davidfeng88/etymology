@@ -1,4 +1,5 @@
 - 银河
 	- 古希腊语 cyclos galaxias乳汁之环
 		- 传说由 [[Hera天后赫拉]]的乳汁变成
-	- 英语
+	- 英语意译为milky way
+		- galaxy星系
