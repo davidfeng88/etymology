@@ -7,3 +7,4 @@
 - ambiguous 模棱两可的
 	- 两边走的
 - amphibian 两栖动物
+- ambivalent 矛盾的
