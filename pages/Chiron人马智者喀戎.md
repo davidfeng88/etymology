@@ -1,3 +1,6 @@
+father:: [[Cronus第二代神王克洛诺斯]]
+mother:: sea Nymph Philyra
+
 - 徒弟
 	- [[Jason伊阿宋]]
 	- [[Heracles赫拉克勒斯]]
