@@ -18,7 +18,7 @@
 - [[Iapetus冲击之神伊阿珀托斯]]
 - [[Themis秩序女神忒弥斯]]
 	- 后代
-		- [[Atlas阿特拉斯]]
+		- [[Atlas大力神阿特拉斯]]
 		- [[Menoetius墨诺提俄斯]]
 		- [[Prometheus普罗米修斯]]
 		- [[Epimetheus厄庇米修斯]]
