@@ -2,4 +2,4 @@
 	- Cratos强力之神
 	- Bia暴力女神
 	- Zelos热诚之神
-	-
+	- Nike胜利女神
