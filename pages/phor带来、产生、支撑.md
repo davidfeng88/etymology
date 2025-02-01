@@ -1,0 +1,12 @@
+- 希腊语：phoreo
+- 拉丁语：fero
+	- infer=>带入其中=>推断
+	- confer=>拿到一起=>对照
+		- conference会议
+	- offer=>带来=>提供
+	- refer=>带回来=>参考
+	- differ=>分开带走=>相异
+		- difference差别
+	- prefer=>与生俱来的偏好=>喜好
+	- transfer=>从一处带到另一处=>转移
+	- suffer=>在底下承受=>忍受

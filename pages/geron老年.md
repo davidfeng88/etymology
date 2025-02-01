@@ -1,0 +1,7 @@
+- 希腊语
+	- 名词 geron老年
+- 人类变老类比为作物成熟
+	- grain谷物
+	- pomegranate石榴：pomme grenate多籽的水果
+	- grenade手榴弹（造型像石榴）
+	- granite花岗岩（多籽的石头）

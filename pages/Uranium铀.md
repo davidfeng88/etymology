@@ -1,0 +1,4 @@
+- 1789年命名，纪念 [[Uranus天王星]]
+- [[化学]]
+- [[Neptunium镎]]
+- [[Plutonium钚]]

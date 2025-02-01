@@ -1,0 +1,2 @@
+- 扛天巨人
+- 与Pleione普勒俄涅 [[Oceanids大洋仙女]] 结合生下七个女儿，称为Pleiades [[ides后裔]]

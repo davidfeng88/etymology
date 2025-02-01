@@ -1,0 +1,10 @@
+- 符号♀
+	- 铜镜，[[Aphrodite爱和美之神阿佛洛狄忒]]的象征
+- 所有星星中最亮（比天狼星亮）
+- 中国：启明、长庚
+- 希腊
+	- 早上
+		- eosphoros aster [[eosphoros带来黎明]] [[aster星]]
+		- phosphoros aster [[phosphoros带来光明]] [[aster星]]
+	- 傍晚
+		- hesperos aster [[hesperos黄昏]] [[aster星]]

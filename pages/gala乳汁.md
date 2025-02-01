@@ -1,0 +1,6 @@
+- 银河
+	- 古希腊语 cyclos galaxias乳汁之环
+		- 传说由 [[Hera天后赫拉]]的乳汁变成
+		- [[Heracles赫拉克勒斯]] 吸奶太用力，赫拉拿开乳头，乳汁喷射形成。
+	- 英语意译为milky way
+		- galaxy星系

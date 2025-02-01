@@ -1,0 +1,1 @@
+- 人必有一死Memento mori.

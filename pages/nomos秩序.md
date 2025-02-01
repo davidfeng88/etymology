@@ -1,0 +1,8 @@
+- economy经济
+- antinomy矛盾
+- heteronomy他律
+- autonomy自治
+	- [[auto自我]]
+- ergonomics人体工学
+- taxonomy分类法
+- Deuteronomy申命记（第二律法，重申律法）

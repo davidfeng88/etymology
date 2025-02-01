@@ -1,0 +1,13 @@
+- 英语Lion
+- 希腊语Leon
+- 拉丁语Leo
+- Leonardo像狮子一样
+- Leonardo Da Vinci 达芬奇
+	- [[人名/专有]] 来自Vinci的莱昂纳多
+- Napoleon 拿破仑
+	- [[人名/专有]] 来自那不勒斯(Naples)的Leon
+- Leo Tolstoy 列夫托尔斯泰
+	- [[人名/专有]]
+- Sierra Leone塞拉利昂（狮子山）[[Sierra山]]
+	- [[地名]]
+- cameleon变色龙（地上的狮子）

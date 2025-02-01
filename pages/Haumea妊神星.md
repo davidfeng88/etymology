@@ -1,0 +1,3 @@
+- 夏威夷生育之神哈乌美亚
+	- 用于 “纪念发现它的卫星的地点” Keck Observatory
+	- 妊神星本身是在位于加州圣地亚哥的Palomar Observatory发现的

@@ -1,0 +1,4 @@
+- medidate沉思
+- 阿基米德Archimedes大智者
+- 狄俄墨得斯Diomedes宙斯之智
+- [[medon统治者]]

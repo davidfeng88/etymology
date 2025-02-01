@@ -1,0 +1,2 @@
+- 一磅之重 libra pondo (libra by weight)。古英语中省去libra，称一磅为pund，演化成英语中的pound。
+- 简写为LB，从libra而来。
