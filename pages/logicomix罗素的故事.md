@@ -1,1 +1,2 @@
-- 维特根斯坦将继承巨额财产
+- 维特根斯坦将继承巨额财产给了自己的姐姐们
+	- money corrupts, so best give it to the already corrupted.
