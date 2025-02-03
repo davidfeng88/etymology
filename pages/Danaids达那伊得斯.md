@@ -2,6 +2,6 @@
 - Danaus命令她们在婚礼前一天晚上杀死她们的丈夫（Danaus的双胞胎兄弟的五十个儿子）。其中49个女儿听从了父亲，杀死了丈夫。
 - 她们的惩罚是在 [[Tartarus深渊之神塔尔塔罗斯]] 装满漏水的水缸。
 	- ![Danaides_by_John_William_Waterhouse,_1903.jpg](../assets/Danaides_by_John_William_Waterhouse,_1903_1738551847463_0.jpg)
-		-
+		- [[拉斐尔前派]] [[John William Waterhouse]]
 	- [[Sisyphus西西弗斯]]
 	- [[Ocnus奥克努斯]]
