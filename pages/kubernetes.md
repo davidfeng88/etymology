@@ -1,4 +1,4 @@
 - 希腊语，意为舵手
 - => 拉丁语 gubernator 舵手
 	- => 英语 governor 统治者
-- =>
+- => 英语 cybernetics 控制论
